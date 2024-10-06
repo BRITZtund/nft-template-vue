@@ -1,3 +1,4 @@
+![GIF_20240926_160845_640](https://github.com/user-attachments/assets/dd43fb9c-d8f7-435f-8128-25eefe17e2c4)
 # NFT website template
 
 This is a simple website template for getting NFT information directly from chain. It uses wallet (like metamask) to assure NFT connection.
